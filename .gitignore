@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 *.backup
 *.tfvars
 .terraform/
-=======
-# Compiled files
-*.tfstate
-*.tfstate.backup
->>>>>>> 72c57317272da9e43dc8bd663b0c54ca245f5873
